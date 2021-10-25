@@ -1,0 +1,16 @@
+{
+  "name": "odev-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "slugify": "^1.6.1"
+  },
+  "description": ""
+}
